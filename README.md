@@ -1,4 +1,25 @@
 # Real-Time Data Processing System for Weather Monitoring with Rollups and Aggregates
+## Screenshots
+![Screenshot 2024-10-24 223702](https://github.com/user-attachments/assets/6b32f35d-5825-45ec-aa8a-dd662942a06c)
+![Screenshot 2024-10-24 223644](https://github.com/user-attachments/assets/b43e5b71-1391-430a-986d-c22785979ce5)
+![Screenshot 2024-10-24 223620](https://github.com/user-attachments/assets/8635a5a8-37b2-4244-ad47-93a43f9a62df)
+![Screenshot 2024-10-24 223555](https://github.com/user-attachments/assets/ce9bccf8-c935-42c7-9020-42064b8b22b2)
+![Screenshot 2024-10-24 223533](https://github.com/user-attachments/assets/4406b730-acc6-4451-b3e7-3a84a9a3b826)
+![Screenshot 2024-10-24 223511](https://github.com/user-attachments/assets/4e55c151-7d0c-4a5a-9048-f0996a4b2bd2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
